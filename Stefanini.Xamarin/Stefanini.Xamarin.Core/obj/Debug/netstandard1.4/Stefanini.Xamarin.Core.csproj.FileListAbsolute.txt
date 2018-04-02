@@ -1,0 +1,9 @@
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\bin\Debug\netstandard1.4\Stefanini.Xamarin.Core.deps.json
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\bin\Debug\netstandard1.4\Stefanini.Xamarin.Core.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\bin\Debug\netstandard1.4\Stefanini.Xamarin.Core.pdb
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\obj\Debug\netstandard1.4\Stefanini.Xamarin.Core.csprojResolveAssemblyReference.cache
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\obj\Debug\netstandard1.4\Stefanini.Xamarin.Core.csproj.CoreCompileInputs.cache
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\obj\Debug\netstandard1.4\Stefanini.Xamarin.Core.AssemblyInfoInputs.cache
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\obj\Debug\netstandard1.4\Stefanini.Xamarin.Core.AssemblyInfo.cs
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\obj\Debug\netstandard1.4\Stefanini.Xamarin.Core.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.Xamarin\Stefanini.Xamarin.Core\obj\Debug\netstandard1.4\Stefanini.Xamarin.Core.pdb

@@ -1,0 +1,26 @@
+**** Aplicativo Stefanini ****
+
+Prezado (s).
+
+1 - O projeto foi desenvolvido no padrão MVVM, usando uma arquitetura distribuída, desacoplando as regras de negócio da camada de apresentação.
+2 - No projeto foram utilizadas as seguintes bibliotecas de terceiros: 
+
+MVVMCross - Foi utilizado para aplicar o MVVM. "Observação nunca havia utilizado a biblioteca então não consegui explorar em pouco tempo o que a biblioteca pode oferecer de melhor para o Xamarin.Android."
+
+Newtonsoft.Json - Foi utilizado para deserializar o arquivo .json disponibilizado pela Stefanini e para deserializar o retorno da WebApi.
+
+SQLite - Foi utilizado para criação do banco de dados.
+
+Square.Picasso - Foi utilizado para incluir o icon retornado pela WebApi.
+
+3 - Pontos que poderiam ser melhorados: 
+    - Criação da tradução.
+    - Criação de uma camada de teste.
+    - Criação de alguns efeitos visuais e melhoria de transição de telas.
+    - Correção de um bug na CustomListViewAdapter ao realizar filtro.
+    - Melhorias na views.
+   Alguns pontos não foram possíveis entregar devido a um problema de saúde do meu pai que no feriado passo mal eu tive que levá-lo no médico.
+
+Atenciosamente,
+
+Neuber Coelho.

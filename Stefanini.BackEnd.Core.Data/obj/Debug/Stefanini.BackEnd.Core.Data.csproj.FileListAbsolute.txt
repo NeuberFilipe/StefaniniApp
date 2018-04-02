@@ -1,0 +1,17 @@
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Stefanini.BackEnd.Core.Data.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Stefanini.BackEnd.Core.Data.pdb
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\SQLite.Net.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Stefanini.BackEnd.Core.Model.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Stefanini.BackEnd.Core.Model.pdb
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\obj\Debug\Stefanini.BackEnd.Core.Data.csprojResolveAssemblyReference.cache
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\obj\Debug\Stefanini.BackEnd.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\obj\Debug\Stefanini.BackEnd.Core.Data.csproj.CopyComplete
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\obj\Debug\Stefanini.BackEnd.Core.Data.dll
+C:\Users\n.coelho\source\repos\StefaniniApp\Stefanini.BackEnd.Core.Data\obj\Debug\Stefanini.BackEnd.Core.Data.pdb
